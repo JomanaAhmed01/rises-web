@@ -13,7 +13,7 @@ function HomePageCompound() {
 }
 
 export const Wrapper = styled.div`
-  
+  background-color: #ffffe6;
 `;
 
 export default HomePageCompound;
