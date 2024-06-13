@@ -4,6 +4,7 @@ import Navbar from "../components/HomePage/Navbar";
 import Header from "../components/HomePage/Header";
 import Journey from "../components/HomePage/Journey";
 import OurServices from "../components/HomePage/OurServices";
+import BoostingBusinesses from "../components/HomePage/BoostingBusinesses";
 
 function HomePageCompound() {
   return (
@@ -12,6 +13,7 @@ function HomePageCompound() {
       <Header />
       <Journey />
       <OurServices />
+      <BoostingBusinesses />
     </Wrapper>
   );
 }
